@@ -1,6 +1,6 @@
 # Hi Everyone
 
-so this is [wahyu sattriana](https://wahyusattriana.com)'s open source website builder project. basically i will build a [cms](https://www.ibm.com/think/topics/content-management-system) tool to ease everyone to make any website on their own. honestly, this is an insane idea even to myself. i don't really know how to execute this (lmao).
+so "mansatt" is [wahyu sattriana](https://wahyusattriana.com)'s open source website builder project. basically i will build a [cms](https://www.ibm.com/think/topics/content-management-system) tool to ease everyone to make any website on their own. honestly, this is an insane idea even to myself. i don't really know how to execute this (lmao).
 
 but yea, let see how far i could go.
 
